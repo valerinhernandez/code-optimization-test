@@ -1,4 +1,10 @@
 public class Store {
+
+    public static final int PRICE_PRODUCT1 ;
+    public static final int PRICE_PRODUCT2 ;
+    public static final int PRICE_PRODUCT3 ;
+    public static final int QUANTITY_PRODUCT_1 
+
     public static void main(String[] args) {
         int p1 = 15;
         int p2 = 10;
